@@ -2,8 +2,11 @@
 
 A new Flutter project.
 
+<div aling="center">
+  
 ![doceria](https://user-images.githubusercontent.com/72527935/151445764-0c9413b7-d008-43ca-a559-1b27a3528c44.png)
-
+  
+</div>
 
 ## Getting Started
 
